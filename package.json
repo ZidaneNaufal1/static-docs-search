@@ -1,0 +1,1 @@
+{"name":"static-docs-search","version":"0.1.0","private":true,"engines":{"node":">=20"},"scripts":{"test":"node --test tests/core.test.js"}}
